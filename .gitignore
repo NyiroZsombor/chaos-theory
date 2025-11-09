@@ -1,0 +1,6 @@
+out/*
+!out/.gitignore
+Mandelbrot set/images/*
+!Mandelbrot set/images/.gitignore
+cam.txt
+__pycache__/
